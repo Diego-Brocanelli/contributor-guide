@@ -28,7 +28,7 @@ Deve ser vinculado a issue em seu projeto.
 
 Caso a isseu em questão faça parte do marco, a mesma deve ser vinculada.
 
-### Issues labels
+## Issues labels
 
 #### bug
 
@@ -66,7 +66,7 @@ Para os casos onde o foco é o levantamento de dúvida para se debater sobre o t
 
 **Exemplo de uso:** Futuras novas funcionalidades, onde é aberto dialogo para que todos os membros do projeto possam dialogar e concluirem o prosseguimento da ideia formalizando a feature.
 
-### Encerramento
+## Encerramento
 
 Para o encerramento de issues, somente membros principais podem realizar a ação.
 
