@@ -6,9 +6,9 @@ Todos os projetos que envolve o Nucleus Office seguem o [código de conduta](htt
 
 # Índice
 
-- [Fluxo de trabalho](work_flow.md)
-- [Issues](issues.md)
-- [Release](release.md)
-- [Pull request](pull_request.md)
+- [Fluxo de trabalho](/i18n/pt-br/work_flow.md)
+- [Issues](/i18n/pt-br/issues.md)
+- [Release](/i18n/pt-br/release.md)
+- [Pull request](/i18n/pt-br/pull_request.md)
 
 [Licensa](/LICENSE)
